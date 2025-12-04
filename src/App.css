@@ -1,0 +1,50 @@
+#root{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.degradado {
+    background: linear-gradient(135deg, rgba(255, 182, 193, 0.85) 0%, rgba(230, 230, 250, 0.85) 50%, rgba(176, 224, 230, 0.85) 100%);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    border-radius: 2rem;
+    /* border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem; */
+}
+
+.footer{
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.imagenes{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.navbar{
+    padding: 0;
+}
+.product-card {
+    transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+.product-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.product-card:hover .product-overlay {
+    opacity: 1;
+}
