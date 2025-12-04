@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tienda-andel/static/css/main.ef30c390.css",
-    "main.js": "/tienda-andel/static/js/main.2d504783.js",
+    "main.js": "/tienda-andel/static/js/main.5f4e17c0.js",
     "static/js/488.79b19bc3.chunk.js": "/tienda-andel/static/js/488.79b19bc3.chunk.js",
     "index.html": "/tienda-andel/index.html",
     "main.ef30c390.css.map": "/tienda-andel/static/css/main.ef30c390.css.map",
-    "main.2d504783.js.map": "/tienda-andel/static/js/main.2d504783.js.map",
+    "main.5f4e17c0.js.map": "/tienda-andel/static/js/main.5f4e17c0.js.map",
     "488.79b19bc3.chunk.js.map": "/tienda-andel/static/js/488.79b19bc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef30c390.css",
-    "static/js/main.2d504783.js"
+    "static/js/main.5f4e17c0.js"
   ]
 }
