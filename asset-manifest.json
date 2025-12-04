@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tienda-andel/static/css/main.ef30c390.css",
+    "main.js": "/tienda-andel/static/js/main.4b6b8c71.js",
+    "static/js/488.79b19bc3.chunk.js": "/tienda-andel/static/js/488.79b19bc3.chunk.js",
+    "index.html": "/tienda-andel/index.html",
+    "main.ef30c390.css.map": "/tienda-andel/static/css/main.ef30c390.css.map",
+    "main.4b6b8c71.js.map": "/tienda-andel/static/js/main.4b6b8c71.js.map",
+    "488.79b19bc3.chunk.js.map": "/tienda-andel/static/js/488.79b19bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef30c390.css",
+    "static/js/main.4b6b8c71.js"
+  ]
+}
